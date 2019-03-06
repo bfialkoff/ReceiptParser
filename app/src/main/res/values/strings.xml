@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CaptureImage</string>
+    <string name="main_activity_button">Start Camera</string>
+
+</resources>
